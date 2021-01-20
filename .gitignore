@@ -1,0 +1,10 @@
+# Ignore the compiling folders dotnet
+/build/
+obj/
+debug/
+bin/
+
+# Ignore the compiling folder angular
+/dis/
+*.log
+node_modules
